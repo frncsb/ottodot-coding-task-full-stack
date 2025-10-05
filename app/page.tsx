@@ -107,7 +107,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-blue-100 via-white to-blue-50 font-sans">
       <main className="container mx-auto px-6 py-10 max-w-2xl">
         <h1 className="text-5xl font-extrabold text-center mb-8 text-gray-800 tracking-tight">
-          Math Mastery Pad
+          Math Problem Generator
         </h1>
 
         {/* SCORE AND PROGRESS */}

@@ -131,9 +131,11 @@ When submitting your assessment, provide:
 1. **GitHub Repository URL**: Make sure it's public
 2. **Live Demo URL**: Your Vercel deployment
 3. **Supabase Credentials**: Add these to your README for testing:
+
    ```
-   SUPABASE_URL: [Your Supabase Project URL]
-   SUPABASE_ANON_KEY: [Your Supabase Anon Key]
+   SUPABASE_URL: https://ghxqewpvtkltjiocrdyv.supabase.co
+   SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdoeHFld3B2dGtsdGppb2NyZHl2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk1NDk0NDcsImV4cCI6MjA3NTEyNTQ0N30.wNpERQU_-59kGP2RyEWL6Ivmnb3Cyuv7PZpSbRP8B2A
+
    ```
 
 ## Implementation Notes
@@ -142,9 +144,9 @@ _Please fill in this section with any important notes about your implementation,
 
 ### My Implementation:
 
--
--
--
+- Created a simple design for the UI
+- Provided Detailed steps for incorrect answers
+- I am happy with my AI Feedback prompt
 
 ## Additional Features (Optional)
 
