@@ -112,7 +112,7 @@ Create a new API route that handles:
 - [/] User submissions are saved with feedback
 - [/] AI generates helpful, personalized feedback
 - [ ] UI is clean and mobile-responsive
-- [ ] Error handling for API failures
+- [/] Error handling for API failures
 - [ ] Loading states during API calls
 
 ## Deployment
@@ -152,10 +152,10 @@ If you have time, consider adding:
 
 - [/] Difficulty levels (Easy/Medium/Hard)
 - [ ] Problem history view
-- [-] Score tracking
+- [/] Score tracking
 - [/] Different problem types (addition, subtraction, multiplication, division)
 - [/] Hints system
-- [-] Step-by-step solution explanations
+- [/] Step-by-step solution explanations
 
 ---
 
